@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Почём смета</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="calculator">Калькулятор</string>
+
+    <string name="num">Ввод...</string>
+    <string name="sum">
+        Стандартная цена 500 руб за любую смету\n
+        + 0.35 проц. до миллиона\n
+        + 0.1 проц. сверх миллиона
+    </string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
